@@ -7,7 +7,8 @@
         <q-toolbar-title> Dashboard </q-toolbar-title>
 
         <div>
-          <q-btn @click="toggleDarkMode" icon="fa-brands fa-github" round flat></q-btn>
+          <q-btn href="https://github.com/mateusz-jozwiak/quasar-vue-dashboard-starter" icon="fa-brands fa-github" round
+            flat></q-btn>
 
         </div>
 
